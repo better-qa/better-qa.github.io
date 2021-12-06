@@ -1,4 +1,4 @@
-0. Book Summary [Link](istqb-foundation-book-summary.markdown)
+0. Book Summary [Link](istqb-foundation-book-summary.html)
 
 1. Introduction
 
