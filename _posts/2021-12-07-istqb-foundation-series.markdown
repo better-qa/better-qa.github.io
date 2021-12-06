@@ -1,4 +1,4 @@
-0. Book Summary [Link](2021-12-07-istqb-foundation-book-summary.markdown)
+0. Book Summary [Link](istqb-foundation-book-summary.markdown)
 
 1. Introduction
 
