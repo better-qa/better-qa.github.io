@@ -15,7 +15,7 @@
 
 ## Float
 1. **float** data type can represents all floating point numbers, positive or negative.
-    - e.g. -3.1, .5, 8., 2.0, 10.2, -23.28382983, 3.14 are float in Python
+    - e.g. -3.1, -.5, .2, 8., 2.0, 10.2, -23.28382983, 3.14 are float in Python
     - 2.0, .5, 8. are considered as float because of the presence of decimal point (.)
 
 
