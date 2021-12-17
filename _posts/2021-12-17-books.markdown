@@ -1,10 +1,10 @@
 BDD
- - [BDD In Action](https://learning.oreilly.com/library/view/bdd-in-action/9781617291654)
- - [The Cucumber Book](https://learning.oreilly.com/library/view/the-cucumber-book/9781680502497)
+ - [BDD In Action](https://learning.oreilly.com/library/view/bdd-in-action/9781617291654/)
+ - [The Cucumber Book](https://learning.oreilly.com/library/view/the-cucumber-book/9781680502497/)
 
 pytest
- - [Python Testing with pytest](https://learning.oreilly.com/library/view/python-testing-with/9781680502848)
- - [pytest Quick Start Guide](https://learning.oreilly.com/library/view/pytest-quick-start/9781789347562)
+ - [Python Testing with pytest](https://learning.oreilly.com/library/view/python-testing-with/9781680502848/)
+ - [pytest Quick Start Guide](https://learning.oreilly.com/library/view/pytest-quick-start/9781789347562/)
 
 ISTQB Foundation
- - 
+ - [Software Testing Foundation, 5th Edition](https://learning.oreilly.com/library/view/software-testing-foundations/9781681988559/)
